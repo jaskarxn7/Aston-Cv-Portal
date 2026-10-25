@@ -1,0 +1,13 @@
+body { background-color: #f8f9fa; font-family: 'Segoe UI', sans-serif; }
+.card { transition: all 0.3s ease; }
+.card:hover { transform: translateY(-8px); box-shadow: 0 10px 25px rgba(19,83,180,0.2) !important; }
+.navbar { box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+.hero {
+    background: linear-gradient(135deg, #1353B4, #3a003b);
+    color: white;
+    padding: 80px 0;
+    margin-bottom: 40px;
+    border-radius: 12px;
+}
+.btn-primary { background-color: #1353B4; border-color: #1353B4; }
+.btn-primary:hover { background-color: #0d3d85; }
