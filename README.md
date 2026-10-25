@@ -11,9 +11,9 @@ A web portal I built for Aston students and developers to create, edit, and publ
 -Detailed single-page CV views displaying full developer summaries and external links.
 
 Tech stack
--PHP & MySQL (PDO)
--Bootstrap 5, HTML & CSS
--InfinityFree (Apache & Database Hosting)
+-PHP & MySQL 
+-Bootstrap, HTML & CSS
+-InfinityFree (Database Hosting)
 
 Live App
 Try it here: https://aston-cv-portal253.ifree.page
